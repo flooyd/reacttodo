@@ -1,7 +1,7 @@
 var axios = require('axios')
 
 //const URL = 'http://localhost:3001/todos'
-const URL = 'http://flooydtodo.herokuapp.com'
+const URL = 'https://flooydtodo.herokuapp.com'
 
 module.exports = {
   getTodos: function(){
