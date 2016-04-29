@@ -20400,7 +20400,7 @@
 	var axios = __webpack_require__(170);
 
 	//const URL = 'http://localhost:3001/todos'
-	var URL = 'https://flooydtodo.herokuapp.com';
+	var URL = 'https://flooydtodo.herokuapp.com/todos';
 
 	module.exports = {
 	  getTodos: function getTodos() {
